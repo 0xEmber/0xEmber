@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @0xEmber
+- 👀 I’m interested in Backend Development
+- 🌱 I’m currently learning Rust🦀
+- 💞️ I’m looking to collaborate on open source repos
+- 📫 How to reach me github.com/0xEmber
